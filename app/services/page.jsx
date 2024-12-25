@@ -6,7 +6,7 @@ import Link from "next/link"
 const services =[
   {
     num: "01",
-    titile :"Web development",
+    titile :"Web Designing",
     describtion: "Lorem ipsum dolor sit amet consectetur adipisicing elit Necessitatibus totam voluptatibus earum",
     href:""
   },
@@ -22,12 +22,7 @@ const services =[
     describtion: "Lorem ipsum dolor sit amet consectetur adipisicing elit Necessitatibus totam voluptatibus earum",
     href:""
   },
-  {
-    num: "04",
-    titile :"UI/UX",
-    describtion: "Lorem ipsum dolor sit amet consectetur adipisicing elit Necessitatibus totam voluptatibus earum",
-    href:""
-  },
+  
 ]
 
 import {motion} from "framer-motion"
