@@ -10,17 +10,17 @@ import "swiper/css";
 import Link from "next/link";
 import Image from "next/image";
 
-import WorkSliderButtons from "@/components/workSliderButtons";
+import WorkSliderButtons from "@/components/WorkSliderButtons";
 
 
 const projects =[
   {
     num : "01",
     category : "Frontend",
-    titile : "",
+    titile : "Portfolio",
     describtion : 
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum aut molestiae, fuga a ratione odit ullam maiores esse, ",
-    stack : [{name : "Html 5"},{name : "Css 3"},{name: "Javascript"}],
+      "I have created a personal portfolio website using Next.js, React.js, and Tailwind CSS. The project showcases my web development skills, including responsive design and dynamic content rendering. By leveraging Next.js for server-side rendering and React.js for building interactive components, I’ve created a seamless and visually appealing user experience. Tailwind CSS has helped me efficiently style the pages with a modern, clean design.",
+    stack : [{name : "React JS"},{name : "Tailwind CSS"},{name: "NextJS"}],
     image : "/assets/work/thumb1.png",
     live : "",
     github : "",

@@ -8,7 +8,7 @@ import {SiTailwindcss, SiNextdotjs} from "react-icons/si";
 const about ={
   title:"About me",
   describtion: 
-  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus rem natus quia dolor, sit numquam ipsum ad expedita",
+  "I am a passionate and motivated individual currently pursuing a Bachelor of Information Technology at Colombo University. With hands-on experience in web development and backend technologies like Spring Boot, I have successfully completed projects that showcase my learning and teamwork. In my free time, I enjoy reading books, which helps me stay curious and inspired. I am eager to explore new challenges and grow as a developer.",
   info:[
     {
       fieldName: "Name",
@@ -42,28 +42,14 @@ const experience ={
   icon: "/assets/resume/cap.svg",
   title: "MyExperience",
   describtion:
-    "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus rem natus quia dolor, sit numquam ipsum ad expedita",
+    "I have completed an internship program focusing on Spring Boot development, where I gained hands-on experience in building and managing backend systems. Currently, I am working on a team project to develop a Defect Tracker application at the Samuel Gnanam IT Centre in Jaffna, enhancing my skills in collaboration and real-world software development.",
   items:[
     {
       company:"Samuel gnanam IT Center",
       position: "Trainee software developer",
       duration: "May 2024 - Aug 2024",
     },
-    {
-      company:"Samuel gnanam IT Center",
-      position: "Trainee software developer",
-      duration: "May 2024 - Aug 2024",
-    },
-    {
-      company:"Samuel gnanam IT Center",
-      position: "Trainee software developer",
-      duration: "May 2024 - Aug 2024",
-    },
-    {
-      company:"Samuel gnanam IT Center",
-      position: "Trainee software developer",
-      duration: "May 2024 - Aug 2024",
-    },
+   
   ],
 };
 
@@ -72,28 +58,14 @@ const education ={
   icon: "/assets/resume/badge.svg",
   title: "My Education",
   describtion:
-    "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus rem natus quia dolor, sit numquam ipsum ad expedita",
+    "I am currently pursuing a Bachelor of Information Technology at Colombo University. Through my studies, I am gaining foundational knowledge in programming, databases, and software development",
   items:[
     {
       institution:"Samuel gnanam IT Center",
-      degree: "Trainee software developer",
-      duration: "May 2024 - Aug 2024",
+      degree: "Information Technology",
+      duration: "Still following",
     },
-    {
-      institution:"Samuel gnanam IT Center",
-      degree: "Trainee software developer",
-      duration: "May 2024 - Aug 2024",
-    },
-    {
-      institution:"Samuel gnanam IT Center",
-      degree: "Trainee software developer",
-      duration: "May 2024 - Aug 2024",
-    },
-    {
-      institution:"Samuel gnanam IT Center",
-      degree: "Trainee software developer",
-      duration: "May 2024 - Aug 2024",
-    },
+   
   ]
 };
 
@@ -101,7 +73,7 @@ const education ={
 const skill = {
   title: "My Skills",
   describtion :
-    "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus rem natus quia dolor, sit numquam ipsum ad expedita",
+    "I have a basic understanding of web development using HTML, CSS, and React. I am also learning to use Tailwind CSS for styling and creating responsive designs. As a beginner, I have already completed some frontend projects, which helped me improve my skills in building simple, user-friendly web applications.",
     skillList:[
       {
         icon : <FaHtml5/>,
