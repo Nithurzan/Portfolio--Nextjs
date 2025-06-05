@@ -49,6 +49,11 @@ const experience ={
       position: "Trainee software developer",
       duration: "May 2024 - Aug 2024",
     },
+    {
+      company:"Boron Corp",
+      position: "Trainee software developer",
+      duration: "Feb 2025 - ",
+    },
    
   ],
 };
@@ -61,7 +66,7 @@ const education ={
     "I am currently pursuing a Bachelor of Information Technology at Colombo University. Through my studies, I am gaining foundational knowledge in programming, databases, and software development",
   items:[
     {
-      institution:"Samuel gnanam IT Center",
+      institution:"University of Colombo",
       degree: "Information Technology",
       duration: "Still following",
     },
