@@ -47,6 +47,28 @@ const projects =[
     live : "https://to-do-list-pi-beige-21.vercel.app/",
     github : "https://github.com/Nithurzan/To-do-list",
   },
+  {
+    num : "04",
+    category : "Fullstack",
+    titile : "Nutrio - ecommerce",
+    describtion : 
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum aut molestiae, fuga a ratione odit ullam maiores esse, ",
+    stack : [{name : "ReactJS"},{name : "Tailwind CSS"},{name : "MongoDB"},{name : "ExpresJS"},{name : "NodeJS"}],
+    image : "/assets/work/nutrio.png",
+    live : "https://nutrio-amber.vercel.app/",
+    github : "https://github.com/Nithurzan/Nutrio.git",
+  },
+  {
+    num : "05",
+    category : "Fullstack",
+    titile : "Expense Tracker",
+    describtion : 
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum aut molestiae, fuga a ratione odit ullam maiores esse, ",
+    stack : [{name : "NextJS"},{name : "Tailwind CSS"},{name : "MongoDB"},{name : "FastAPI"}],
+    image : "/assets/work/expense-tracker.png",
+    live : ":#",
+    github : "https://github.com/Nithurzan/expense-tracker",
+  },
 ];
 
 const Work = () => {
